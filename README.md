@@ -1,11 +1,10 @@
-# Data Scientist
+# Data e Generative AI Specialist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Deep Learning, NLP, LLM, Graph Networks
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Complex Systems Modeling	| University of Sao Paulo (_December 2025_)	 			        		
+- B.S., Computer Engineering | University of State Sao Paulo (_ 2022_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
