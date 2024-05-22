@@ -1,4 +1,4 @@
-# Data Scientist
+# Performance Marketing Specialist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
